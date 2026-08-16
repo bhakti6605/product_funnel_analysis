@@ -63,4 +63,3 @@ Compared traffic-source conversion performance, finding Email had the strongest 
 Analyzed downstream funnel behavior and found 90–94% Payment-to-Purchase conversion across channels, indicating that checkout/payment completion was relatively strong compared with earlier-stage drop-offs.
 Evaluated revenue, Total orders, buyers, AOV, and time-to-conversion metrics, identifying Email as a high-performing acquisition channel and recommending greater focus on email-based customer acquisition and retention, while improving Social traffic quality.
 
-## Files
