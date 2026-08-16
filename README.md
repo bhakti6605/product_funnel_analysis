@@ -1,4 +1,4 @@
-# Product Funnel & Conversion Analysis
+# E-Commerce Funnel & Conversion Analysis
 
 ## Project Overview
 This project analyzes user behavior through an e-commerce
