@@ -58,7 +58,9 @@ Calculated the time between a user's first page view
 and first purchase using event timestamps.
 
 ## Key Insights
-
-
+Built an end-to-end e-commerce funnel analysis in PostgreSQL using CTEs, CASE WHEN, COUNT(DISTINCT), aggregations, and conversion-rate calculations across five customer journey stages.
+Compared traffic-source conversion performance, finding Email had the strongest View-to-Cart conversion (62%), while Social had the lowest (13%), identifying a major top-of-funnel optimization opportunity.
+Analyzed downstream funnel behavior and found 90–94% Payment-to-Purchase conversion across channels, indicating that checkout/payment completion was relatively strong compared with earlier-stage drop-offs.
+Evaluated revenue, Total orders, buyers, AOV, and time-to-conversion metrics, identifying Email as a high-performing acquisition channel and recommending greater focus on email-based customer acquisition and retention, while improving Social traffic quality.
 
 ## Files
